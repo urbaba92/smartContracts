@@ -1,5 +1,6 @@
 //SPDX-License-identifier: MIT
 //openzepplin ownabl.sol contracts version written by @urbaba92 for educational purpose
+//by urbab92
 
 pragma solidity ^0.8.20;
 
@@ -57,3 +58,4 @@ abstract contract Ownable is context {
 	emit Ownershiptransferred(oldOwner, newOwner);
 	}
    }
+}
