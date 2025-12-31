@@ -3,7 +3,7 @@
 
 pragma solidity ^0.8.20;
 
-import {context} from "../utils/context.sol";
+import {context} from "@openzeppelin/contracts/utils/context.sol";
 
 //many comment are ommitted as its not productional code, educational code
 
